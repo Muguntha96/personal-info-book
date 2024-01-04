@@ -1,10 +1,9 @@
-import Phone from './pages/Phone'
+import Shop from './pages/Shop/Shop'
 import './App.css'
 
 function App() {
-
   return (
-    <Phone />
+    <Shop />
   )
 }
 

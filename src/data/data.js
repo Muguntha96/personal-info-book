@@ -1,4 +1,4 @@
-export const PhoneData = [
+export const inventoryData = [
   { _id: 62345, name: 'Club', cost: 1, weight: 2 },
   { _id: 22345, name: 'Staff', cost: 5, weight: 4 },
   { _id: 82345, name: 'Flask', cost: 2, weight: 1 },
