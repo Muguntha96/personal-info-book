@@ -1,3 +1,4 @@
+import './InventoryList.css'
 const InventoryList = (props) => {
   return (
     <div>
